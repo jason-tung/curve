@@ -1,0 +1,9 @@
+circle
+50 100 150 200
+bezier
+0 0 50 150 100 200 300 350
+hermite
+500 500 0 500 350 300 0 0
+save
+img.png
+display
