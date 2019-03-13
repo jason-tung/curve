@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="423675b9-514e-4b1e-b498-35e44f224707" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/#replace-string#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alt_script" beforeDir="false" afterPath="$PROJECT_DIR$/alt_script" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +16,8 @@
       <file leaf-file-name="alt_script" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alt_script">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="791" column="31" selection-start-line="791" selection-start-column="31" selection-end-line="791" selection-end-column="31" />
+            <state relative-caret-position="270">
+              <caret line="756" column="6" selection-start-line="756" selection-start-column="6" selection-end-line="756" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -142,8 +140,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/alt_script">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="791" column="31" selection-start-line="791" selection-start-column="31" selection-end-line="791" selection-end-column="31" />
+        <state relative-caret-position="270">
+          <caret line="756" column="6" selection-start-line="756" selection-start-column="6" selection-end-line="756" selection-end-column="6" />
         </state>
       </provider>
     </entry>
